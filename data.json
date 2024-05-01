@@ -9,21 +9,12 @@
             {
               "name": "IconPack Numix Grey.exe",
               "url": "https://github.com/thesthipytat/EINWJ/raw/main/IconPack%20Numix%20Grey.exe"
+            },
+            {
+              "name": "File 2",
+              "url": "https://example.com/file2.txt"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Folder2",
-      "files": [
-        {
-          "name": "Image1.jpg",
-          "url": "https://raw.githubusercontent.com/username/repository/main/Folder2/Image1.jpg"
-        },
-        {
-          "name": "Document1.docx",
-          "url": "https://raw.githubusercontent.com/username/repository/main/Folder2/Document1.docx"
         }
       ]
     }
