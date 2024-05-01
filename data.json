@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "name": "Folder1",
+      "folders": [
+        {
+          "name": "Subfolder1",
+          "files": [
+            {
+              "name": "Subfile1.txt",
+              "url": "https://raw.githubusercontent.com/username/repository/main/Folder1/Subfolder1/Subfile1.txt"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "File1.txt",
+          "url": "https://raw.githubusercontent.com/username/repository/main/Folder1/File1.txt"
+        },
+        {
+          "name": "File2.pdf",
+          "url": "https://raw.githubusercontent.com/username/repository/main/Folder1/File2.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Folder2",
+      "files": [
+        {
+          "name": "Image1.jpg",
+          "url": "https://raw.githubusercontent.com/username/repository/main/Folder2/Image1.jpg"
+        },
+        {
+          "name": "Document1.docx",
+          "url": "https://raw.githubusercontent.com/username/repository/main/Folder2/Document1.docx"
+        }
+      ]
+    }
+  ]
+}
